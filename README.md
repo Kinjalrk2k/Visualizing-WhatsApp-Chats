@@ -1,7 +1,5 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-To interact directly in a JupyterHub environment: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kinjalrk2k/Visualizing-WhatsApp-Chats/master)
-
 # Visualizing-WhatsApp-Chats
 Learning Data Analysis and Visualizing through WhatsApp Chats
 
