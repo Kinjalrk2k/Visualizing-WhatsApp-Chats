@@ -26,7 +26,7 @@ Export WhatsApp chats as follows:
 The text file should have a name as: WhatsApp Chat with ... .txt. Use the same in the filename variable
 
 ### Notes
-This project was created and tested under Windows.
+This project was created and tested under Windows. Also, I've been using Anaconda
 
 This project is still under development. Parts of the source codes may not be well documented.
 Also suitable prompts may not be available for the user at the moment.
