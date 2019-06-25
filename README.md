@@ -25,6 +25,17 @@ Export WhatsApp chats as follows:
 
 The text file should have a name as: WhatsApp Chat with ... .txt. Use the same in the filename variable
 
+### Analysis:
+* Sender List
+* Sender Message Count
+* Bar Chart showing messages sent by each sender
+* Pie Chart showing messages sent by each sender
+* Area Chart showing the total number of messages sent by dates
+* Date on which maximum number of messages were sent
+* Date on which minimum number of messages were sent
+* Line Chart showing messaging frequency of each sender, datewise
+* Bar Chart showing hourly messaging frequency
+
 ### Notes
 This project was created and tested under Windows. Also, I've been using Anaconda
 
