@@ -40,6 +40,8 @@ The text file should have a name as: WhatsApp Chat with ... .txt. Use the same i
 * Date on which minimum number of messages were sent
 * Line Chart showing messaging frequency of each sender, datewise
 * Bar Chart showing hourly messaging frequency
+* Pie Chart showing Overall Sentiment
+* Pie Chart showing Senderwise Sentiment
 
 ### Notes
 This project was created and tested under Windows. Also, I've been using Anaconda
