@@ -12,6 +12,9 @@ or visit PyPi site, by clicking [here](https://pypi.org/project/pandas/)
 * matplotlib - for visualization (inline for ploting dataframes)
 >````pip install matplotlib````
 or visit PyPi site, by clicking [here](https://pypi.org/project/matplotlib/)
+* Natural Language Toolkit
+>````pip install nltk````
+or visit PyPi site, by clicking [here](https://pypi.org/project/nltk/)
 
 ### Exporting chats:
 Export WhatsApp chats as follows:
